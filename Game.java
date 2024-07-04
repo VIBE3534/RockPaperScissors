@@ -51,8 +51,8 @@ public class Game {
             if (!playAgain.equals("y")){
                 break;
             }
-            sc.close();
         }
+        sc.close();
     }
 }
 
